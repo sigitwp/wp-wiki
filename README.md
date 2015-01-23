@@ -1,2 +1,2 @@
-# wp-wiki
+# WP Wiki
 Wiki Simulation
